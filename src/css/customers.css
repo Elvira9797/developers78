@@ -1,0 +1,13 @@
+.customers {
+  margin-top: 50px;
+}
+
+.customers-title {
+  color: aquamarine;
+}
+
+.customers-text {
+  background-color: antiquewhite;
+  padding: 15px;
+  font-size: 33px;
+}
