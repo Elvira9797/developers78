@@ -1,0 +1,14 @@
+.gallery {
+  margin-top: 50px;
+}
+
+.gallery-title {
+  color: rgb(207, 226, 31);
+  font-size: 60px;
+}
+
+.gallery-text {
+  background-color: rgb(33, 22, 8);
+  padding: 15px;
+  font-size: 33px;
+}
